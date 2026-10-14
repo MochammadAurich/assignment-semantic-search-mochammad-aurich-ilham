@@ -1,0 +1,6 @@
+pandas
+numpy
+faiss-cpu
+google-genai
+python-dotenv
+ipykernel
